@@ -1,10 +1,10 @@
 # welcome bot: A Probot App
 
-DESCRIPTION PLACEHOLDER
+this project is provided by github for introduce new users to github.
 
 ## What it does
 
-FEATURES PLACEHOLDER
+Mona bot helps me lot
 
 ## Getting started
 
